@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<imagenes>
+	
+	
+	
+<imagen>
+<id>1</id>
+<titulo>terh</titulo>
+<ruta>C:\Users\gerardo\Documents\NetBeansProjects\VisorImagenes\src\imagenes\descarga (2).jpg</ruta>
+</imagen>
+<imagen>
+<id>2</id>
+<titulo>coma</titulo>
+<ruta>C:\Users\gerardo\Documents\NetBeansProjects\VisorImagenes\src\imagenes\primero.jpg</ruta>
+</imagen>
+</imagenes>
